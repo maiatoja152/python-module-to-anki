@@ -1,0 +1,9 @@
+{
+    "anki-connect-url": "http://localhost:8765",
+
+    "anki-deck": "Parent::IT",
+    "anki-model": "Basic",
+
+    "tags-synopsis": ["IT::Programming::Python::Module"],
+    "hint-synopsis": "Python module name"
+}
