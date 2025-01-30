@@ -87,7 +87,7 @@ def add_synopsis_anki_note(
             "Back": module,
             "Hint": config["hint-synopsis"],
             "Back Extra": "",
-            "Source": link,
+            "Links": link,
             "Reverse": "",
         },
         config["tags-synopsis"]
