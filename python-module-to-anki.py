@@ -123,7 +123,7 @@ def create_synopsis_note(
         return add_synopsis_anki_note(
             get_synopsis(soup),
             module,
-            docs_url
+            f"<a href=\"{docs_url}\" title=\"{docs_url}\">Docs</a>"
         )
 
 
